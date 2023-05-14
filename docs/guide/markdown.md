@@ -225,7 +225,11 @@ npm install -D yarn
 ![来自依赖包的图片](yarn/image.png)
 ```
 
-在配置文件中设置的路径别名也同样支持更改：
+在配置文件中设置的路径别名也同样支持更改
+
+```sh
+pnpm i -D @vuepress/utils@next
+```
 
 ```ts{6-8}
 import { getDirname, path } from '@vuepress/utils'

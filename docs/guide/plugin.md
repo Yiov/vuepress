@@ -13,7 +13,7 @@
 安装，不要把npm改成其他
 
 ```sh
-npm i -D @vuepress/plugin-google-analytics@next
+pnpm i -D @vuepress/plugin-google-analytics@next
 ```
 
 ```ts

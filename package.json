@@ -16,6 +16,8 @@
     "@vuepress/plugin-docsearch": "2.0.0-beta.62",
     "@vuepress/plugin-google-analytics": "2.0.0-beta.62",
     "@vuepress/plugin-prismjs": "2.0.0-beta.62",
+    "@vuepress/utils": "2.0.0-beta.62",
+    "package-name": "^0.1.0",
     "vue": "^3.3.2",
     "vuepress": "2.0.0-beta.62"
   }
