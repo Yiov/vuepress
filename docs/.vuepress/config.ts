@@ -16,7 +16,7 @@ export default {
   //========logo路径========//
   head: [['link', 
   //favicon图标
-  { rel: 'icon', href: '/vuepress2/images/logo.png' },
+  { rel: 'icon', href: '/vuepress/images/logo.png' },
   //自定义css样式
   //{ rel: 'stylesheet', href: '/styles/index.scss' },
   ]],

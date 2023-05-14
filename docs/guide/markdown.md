@@ -164,17 +164,17 @@ markdown: {
 ![](./hero.png)
 
 
-如果你想引用其他目录，就要把路径列出来，比如：
+如果你想引用其他目录，可以使用相对路径，比如：
 
 输入：
 
 ```md
-![](@source/.vuepress/public/images/hero.png)
+![](../.vuepress/public/images/hero.png)
 ```
 
 输出：
 
-![](@source/.vuepress/public/images/hero.png)
+![](../.vuepress/public/images/hero.png)
 
 
 
@@ -265,6 +265,7 @@ markdown: {
     code: {
       //这里是配置项
     },
+}
 ```
 
 ### 行高亮
